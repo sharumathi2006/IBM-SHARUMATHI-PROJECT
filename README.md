@@ -13,5 +13,5 @@ https://colab.research.google.com/drive/1pgjiDxarZCWcHF32IugAT64U1lNZLCs-?usp=sh
 PROJECT DOCUMENT:
 https://drive.google.com/file/d/10QlwwQU-Ot17aBsxFO48BnsQ3gdkW004/view?usp=sharing
 
-PROJECT VIDOE LINK:
-https://drive.google.com/drive/folders/1pIe6QErbpvK7OejK86_YVrKjAzy8XpPT?usp=sharing
+PROJECT VIDEO LINK:
+https://drive.google.com/file/d/1MdTGGMrXCxzGO-rvEhPF-GV_464NqqrT/view?usp=drive_link
